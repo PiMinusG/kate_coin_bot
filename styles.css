@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #87CEEB; 
+}
+
+.coin{
+    text-align: center ;
+    text-decoration: none;
+    user-select: none;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: #FFFFFF; 
+    display: flex;
+}
